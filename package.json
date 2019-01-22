@@ -1,0 +1,32 @@
+{
+  "name": "serverside",
+  "version": "1.0.0",
+  "description": "server side code implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Error: no test specified\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" && exit 1\\\\\\\\\\\\\\"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RidaRidss/MEAN_Gulp_Tasks.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Rida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RidaRidss/MEAN_Gulp_Tasks/issues"
+  },
+  "homepage": "https://github.com/RidaRidss/MEAN_Gulp_Tasks#readme",
+  "devDependencies": {
+    "@types/node": "^10.12.18",
+    "gulp": "^4.0.0",
+    "gulp-coffee": "^3.0.3",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.7.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.1",
+    "gulp-util": "^3.0.8"
+  }
+}
